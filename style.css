@@ -1,0 +1,74 @@
+* 
+{
+    box-sizing: border-box;
+}
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+div img
+{
+    width: 23%;
+}
+table
+{
+    width: 90%;
+    margin: auto;
+}
+.search
+{
+    background-color: #EEEEEE;
+    text-align: center;
+}
+.card1,.card2,.card3
+{
+    float: left;
+    height: 81px;
+}
+.card1
+{
+    width: 37%;
+    background-color: #7EE5DA;
+    text-align: center;
+    padding: 10px;
+}
+.card2
+{
+    width: 20%;
+    background-color: #70CCC2;
+    font-size: small;
+    border-right:1px solid white;
+    border-left:1px solid white;
+}
+.card2 div
+{
+    padding: 10px;
+    width: 100%;
+    font-size: small;
+    text-align: center;
+}
+.card2 div a
+{
+    display: block;
+}
+.card3
+{
+    width: 43%;
+    background-color: #62B3AA;
+}
+.card3 div
+{
+    width: 100%;
+    text-align: center;
+}
+
+.card3 input [type="text"]
+{
+    margin-bottom: 2px;
+}
+a
+{
+    color: blue;
+}
